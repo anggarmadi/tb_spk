@@ -10,7 +10,7 @@
 ### Cara Menggunakan
 1. Clone repository dengan perintah
 ```
-git clone https://github.com/anggarmadi/simple-dss-beasiswa-saw.git
+git clone https://github.com/anggarmadi/tb_spk.git
 ```
 2. Letakkan directory di dalam root directory web server
 3. Import databasespk.sql
